@@ -1,6 +1,8 @@
 # PHP-Project2
 
-Please extract the zip file and paste the directory inside the zip file to htdocs folder of XAMPP web server. And import the sql file inside the first directory in PHPMyAdmin for the database to work.
+A web application developed in PHP for furniture sales.
+
+Place the main directory in htdocs folder of XAMPP web server. And import the sql file in PHPMyAdmin for the database to work.
 
   Username: admin       
   Password:admin 
